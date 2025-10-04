@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.js"></script>
+  <script>
+    window.jsQR = jsQR;
+  </script>
+  <meta name="camera" content="camera" />
+  <meta name="description" content="NERG QR Scanner">
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.2/firebase-app.js";
+
+    const firebaseConfig = {
+    apiKey: "AIzaSyC7G04MFbpIG6VCl7C40GYxxm2ztUY5Ito",
+    authDomain: "nergnet-adb04.firebaseapp.com",
+    projectId: "nergnet-adb04",
+    storageBucket: "nergnet-adb04.firebasestorage.app",
+    messagingSenderId: "704065450568",
+    appId: "1:704065450568:web:4f7dc4254c93ef163b9e7d",
+    measurementId: "G-EWKZB6PTWP"
+    };
+
+    const app = initializeApp(firebaseConfig);
+  </script>
+  <meta name="google-signin-client_id" content="704065450568-5oadam7uj76g8iqrb84jnojjsf23s6ar.apps.googleusercontent.com">
+
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="nergnet">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>nergnet</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

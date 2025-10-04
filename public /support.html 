@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>NergNet Support</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; line-height: 1.7; color: #333; }
+    h1, h2 { color: #00695c; }
+    a { color: #0288d1; }
+    footer { margin-top: 3rem; font-size: 0.9rem; color: #777; }
+  </style>
+</head>
+<body>
+  <h1>Help & Support</h1>
+  <p>Need assistance? We're here to help. Below are answers to some common questions about NergNet.</p>
+
+  <h2>📌 Common Questions</h2>
+
+  <h3>1. I didn’t receive my referral bonus. Why?</h3>
+  <p>Referral bonuses are granted when the referred user signs up using your referral ID and successfully creates a wallet. If there was a typo or missing field, the bonus might not be credited.</p>
+
+  <h3>2. My mining isn't starting. What can I do?</h3>
+  <ul>
+    <li>Ensure you are signed into your account</li>
+    <li>Check your internet connection</li>
+    <li>Try restarting the app</li>
+    <li>Make sure your wallet is properly set up</li>
+  </ul>
+
+  <h3>3. How do I check my NERG balance?</h3>
+  <p>Go to the <strong>Dashboard</strong> in the app. Your live balance, mining rewards, and bonus history are displayed there in real time.</p>
+
+  <h3>4. Can I withdraw or transfer NERG?</h3>
+  <p>NERG is currently used within the app. Future updates may allow transfers to external wallets or exchanges.</p>
+
+  <h3>5. Where can I see my transaction history?</h3>
+  <p>Tap the <strong>Transactions</strong> tab. All mining rewards, bonuses, and earnings are recorded there with timestamps.</p>
+
+  <h3>6. What if I find a bug?</h3>
+  <p>We appreciate your feedback! Please report bugs to <a href="mailto:support@nergnet.app">support@nergnet.app</a> or via our Telegram group.</p>
+
+  <h2>📬 Contact Support</h2>
+  <ul>
+    <li><strong>Email:</strong> <a href="mailto:support@nergnet.app">support@nergnet.app</a></li>
+    <li><strong>Telegram:</strong> <a href="https://t.me/nergcoin" target="_blank">@nergcoin</a></li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/NergNet" target="_blank">github.com/NergNet</a></li>
+  </ul>
+
+  <footer>
+    &copy; 2025 NergNet. Built for the future of decentralized micro-mining.
+  </footer>
+</body>
+</html>

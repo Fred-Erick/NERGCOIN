@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "704065450568",
+    "project_id": "nergnet-adb04",
+    "storage_bucket": "nergnet-adb04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704065450568:android:1844aafa9a81dcec3b9e7d",
+        "android_client_info": {
+          "package_name": "NergNet.G"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704065450568-5oadam7uj76g8iqrb84jnojjsf23s6ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-a7uSkzvbF_7H9dK3YJkDo1gDIBtnvtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704065450568-5oadam7uj76g8iqrb84jnojjsf23s6ar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704065450568-bc6gbuc80dhslkjq292bhes0l5sr8f00.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "NerNet.G"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
